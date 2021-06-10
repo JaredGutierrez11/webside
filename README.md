@@ -21,6 +21,6 @@ Los terremotos, también conocidos como temblores o seísmos, pueden ser tremend
 De media, los terremotos de 8 grados de magnitud ocurren en algún lugar del mundo cada año y casi 10.000 personas fallecen anualmente por dicha causa. Las edificaciones que se derrumban son las responsables, con diferencia, de la mayor parte de las víctimas, pero la destrucción se exacerba por los deslaves, deslizamientos, incendios, inundaciones o tsunamis que acompañan al seísmo. Réplicas más pequeñas ocurren en los días posteriores a un gran terremoto por lo que pueden complicar las operaciones de rescate y causar más muertes y destrucción.
 </body>
 <p>
-<img src="Terremoto.jpg">
+<img src="https://images.app.goo.gl/gAsCYgvTdWRyXCHF8">
 
 </html>
